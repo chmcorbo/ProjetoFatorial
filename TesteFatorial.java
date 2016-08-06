@@ -4,5 +4,4 @@ public class TesteFatorial {
 			int resultado = fat.CalcularFatorial(5);
 			System.out.println(resultado);
 		}
-		
 }

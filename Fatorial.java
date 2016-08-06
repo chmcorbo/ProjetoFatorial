@@ -6,5 +6,4 @@ public class Fatorial {
 		resultado*= i;
 	   return resultado;
 	}
-	
 }	
