@@ -1,7 +1,8 @@
 public class TesteFatorial {
 		public static void maing(String[] args){
 			Fatorial fat = new Fatorial();
-			System.out.println(fat.CalcularFatorial(5));
+			int resultado = fat.CalcularFatorial(5);
+			System.out.println(resultado);
 		}
 		
 }
