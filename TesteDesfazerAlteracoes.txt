@@ -1,1 +1,3 @@
 Esta é a primeira modificação feita no arquivo.
+Esta é a segunda modificação feita no arquivo.
+Esta é a terceira modificação feita no arquivo.
