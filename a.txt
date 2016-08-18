@@ -1,1 +1,3 @@
-primeira linha incluída
+Este foi apenas um teste. 
+
+Eu reverti este arquivo para a primeira versão que eu commitei. Agora estou fazendo a modificação descartando o que fiz depois do primeiro commit.
